@@ -346,3 +346,8 @@ input {
 .addBtn:hover {
   background-color: #bbb;
 }
+
+.intro {
+  text-align: justify;
+  padding: 10px;
+}
